@@ -50,8 +50,13 @@
 	font-weight: 400;
 }
 .paragraph {
-  font-size: 19px;
+  font-size: 14px;
   line-height: 1.8;
+  font-weight: normal;
+}
+.mini{
+  font-size: 12px;
+  line-height: 1.4;
   font-weight: normal;
 }
 a {
@@ -341,8 +346,6 @@ img {
   width: 100%;
   padding: 30px;
   min-height: 460px;
-  border: 1px solid rgba(0,0,0,.1);
-  border-radius: 3px;
 }.twitter, .medium, .facebook, .github, .instagram, .youtube, .linkedin, .email {
   position: relative;
 }
@@ -490,4 +493,13 @@ img {
   top: 10px;
   left: 8px;
   box-shadow: 18px 0 0 #e2e5e5, 36px 0 0 #e2e5e5;
+}
+
+.bamground {
+  opacity: .8; 
+  background-image: url('../images/bamground.svg');
+  height: auto;
+  min-height: 300px;
+  width: 100%;
+  background-size: cover;
 }

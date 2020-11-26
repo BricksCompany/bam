@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1444px" height="177px" viewBox="0 0 1444 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="bricks_byggefond" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon">
+            <g >
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(52.928932, 31.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(35.000000, -4.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(90.000000, -4.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(107.928932, 31.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(90.000000, 66.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Blue-brick" mask="url(#mask-2)" fill="#304060">
+                    <g transform="translate(62.000000, 101.000000)" id="Rectangle">
+                        <rect x="0" y="0" width="50" height="30" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Creditcard" mask="url(#mask-2)">
+                    <g transform="translate(-2.071068, 31.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#60AAFB" x="0" y="0" width="50" height="30" rx="3"></rect>
+                            <rect id="Rectangle-2" fill="#356597" x="0" y="4" width="50" height="5"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="5" y="15" width="14" height="7"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="15" width="18" height="3"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="19" width="9" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Creditcard" mask="url(#mask-2)">
+                    <g transform="translate(-20.000000, -4.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#60AAFB" x="0" y="0" width="50" height="30" rx="3"></rect>
+                            <rect id="Rectangle-2" fill="#356597" x="0" y="4" width="50" height="5"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="5" y="15" width="14" height="7"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="15" width="18" height="3"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="19" width="9" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Creditcard" mask="url(#mask-2)">
+                    <g transform="translate(-20.000000, 66.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#60AAFB" x="0" y="0" width="50" height="30" rx="3"></rect>
+                            <rect id="Rectangle-2" fill="#356597" x="0" y="4" width="50" height="5"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="5" y="15" width="14" height="7"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="15" width="18" height="3"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="19" width="9" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Creditcard" mask="url(#mask-2)">
+                    <g transform="translate(35.000000, 66.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#60AAFB" x="0" y="0" width="50" height="30" rx="3"></rect>
+                            <rect id="Rectangle-2" fill="#356597" x="0" y="4" width="50" height="5"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="5" y="15" width="14" height="7"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="15" width="18" height="3"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="19" width="9" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Creditcard" mask="url(#mask-2)">
+                    <g transform="translate(7.000000, 101.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#60AAFB" x="0" y="0" width="50" height="30" rx="3"></rect>
+                            <rect id="Rectangle-2" fill="#356597" x="0" y="4" width="50" height="5"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="5" y="15" width="14" height="7"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="15" width="18" height="3"></rect>
+                            <rect id="Rectangle-3" fill="#BCDCFD" x="25" y="19" width="9" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
