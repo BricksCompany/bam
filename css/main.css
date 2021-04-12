@@ -350,7 +350,7 @@ img {
   width: 100%;
   padding: 30px;
   min-height: 460px;
-}.twitter, .medium, .facebook, .github, .instagram, .youtube, .linkedin, .email {
+}.twitter, .medium, .facebook, .github, .instagram, .youtube, .linkedin, .email, .phone {
   position: relative;
 }
 .twitter:after,
@@ -359,6 +359,7 @@ img {
 .github:after,
 .instagram:after,
 .youtube:after,
+.phone:after,
 .linkedin:after,
 .email:after {
   content: "";
@@ -393,6 +394,9 @@ img {
 }
 .youtube:after {
 	background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDI1NiAxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI1My4zMDEgMzguOHMtMi40OTktMTcuNi0xMC4xOTYtMjUuNGMtOS42OTYtMTAuMi0yMC41OTItMTAuMi0yNS42OS0xMC44QzE4MS43MyAwIDEyOC4wNSAwIDEyOC4wNSAwaC0uMVM3NC4yNzEgMCAzOC4zODUgMi42Yy00Ljk5OC42LTE1Ljg5NC42LTI1LjY5IDEwLjhDNS4wOTggMjEuMiAyLjU5OSAzOC44IDIuNTk5IDM4LjhTMCA1OS42IDAgODAuM3YxOS40YzAgMjAuNyAyLjU5OSA0MS40IDIuNTk5IDQxLjRzMi40OTkgMTcuNiAxMC4xOTYgMjUuNGM5LjY5NiAxMC4yIDIyLjQ5MSA5LjkgMjguMTg5IDEwLjkgMjAuNDkyIDIgODYuOTY2IDIuNiA4Ni45NjYgMi42czUzLjc3OS0uMSA4OS41NjUtMi43YzQuOTk4LS42IDE1Ljg5NC0uNiAyNS42OS0xMC44IDcuNjk3LTcuOCAxMC4xOTYtMjUuNCAxMC4xOTYtMjUuNFMyNTYgMTIwLjQgMjU2IDk5LjdWODAuM2MtLjEtMjAuNy0yLjY5OS00MS41LTIuNjk5LTQxLjV6bS0xNTEuNzQgODQuNFY1MS4zbDY5LjE3MiAzNi4xLTY5LjE3MyAzNS44aC4wMDF6IiBmaWxsLXJ1bGU9Im5vbnplcm8iIGZpbGw9IiNGRkYiLz48L3N2Zz4=);
+}
+.phone:after {
+  background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath fill='%23fff' d='M16 22.621l-3.521-6.795c-.007.004-1.974.97-2.064 1.011-2.24 1.086-6.799-7.82-4.609-8.994l2.082-1.026-3.492-6.817-2.106 1.039c-1.639.855-2.313 2.666-2.289 4.916.075 6.948 6.809 18.071 12.309 18.045.541-.003 1.07-.113 1.58-.346.121-.055 2.102-1.029 2.11-1.033zm-2.5-13.621c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm9 0c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zm-4.5 0c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5z'/%3E%3C/svg%3E");
 }
 .email:after {
   background-image: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iMTI0IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEyNCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTExMC43ODQuOThIMTIuNzQ1QzYuMDA1Ljk4LjU1MSA2LjQ5NS41NTEgMTMuMjM1bC0uMDYgNzMuNTNjMCA2Ljc0IDUuNTE0IDEyLjI1NSAxMi4yNTQgMTIuMjU1aDk4LjA0YzYuNzQgMCAxMi4yNTQtNS41MTUgMTIuMjU0LTEyLjI1NXYtNzMuNTNjMC02Ljc0LTUuNTE0LTEyLjI1NS0xMi4yNTUtMTIuMjU1em0wIDI0LjUxbC00OS4wMiAzMC42MzdMMTIuNzQ2IDI1LjQ5VjEzLjIzNWw0OS4wMiAzMC42MzggNDkuMDItMzAuNjM4VjI1LjQ5eiIvPjwvc3ZnPg==);
